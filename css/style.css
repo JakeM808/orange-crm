@@ -45,6 +45,12 @@
     border-top-right-radius: 2%;
     border-bottom-right-radius: 2%;
 
+}
+.card-body-flip {
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%
+
+}
 .p-10{
     padding-top: 10rem;
     padding-bottom: 10rem;
